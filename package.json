@@ -1,0 +1,24 @@
+{
+  "name": "sum",
+  "version": "1.0.0",
+  "description": "sum of numbers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrinceDeepu/deepesh-sum.git"
+  },
+  "keywords": [
+    "sum",
+    "of",
+    "numbers"
+  ],
+  "author": "Deepesh Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrinceDeepu/deepesh-sum/issues"
+  },
+  "homepage": "https://github.com/PrinceDeepu/deepesh-sum#readme"
+}
